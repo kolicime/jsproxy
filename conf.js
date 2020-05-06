@@ -33,7 +33,7 @@ jsproxy_config({
       }
     },
     'buyvm': {
-      label: '自建-拉斯维加斯节点'
+      label: '自建-拉斯维加斯节点',
       line: {
         'a.kolicime.cn:8443': 1,
       }
